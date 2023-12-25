@@ -6,7 +6,7 @@
 
 ## 📑 My CV
 
-CV(KOR) - `himprover.com/CV_KOR` [Link](https://www.himprover.com/CV_KOR)
+<!--CV(KOR) - `himprover.com/CV_KOR` [Link](https://www.himprover.com/CV_KOR)-->
 
 
 ## 🛠Main Skills⚒
