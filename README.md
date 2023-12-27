@@ -8,7 +8,7 @@
 
 Resume - [Link](https://decisive-promotion-347.notion.site/dongDK-d4f9d158064a45d7b3a76d846887b5d5?pvs=4)
 
-
+## 
 ## 🛠기술 스택
 
 <div align='left'>
@@ -40,7 +40,7 @@ Resume - [Link](https://decisive-promotion-347.notion.site/dongDK-d4f9d158064a45
 
 <div align='left'>
 
-## 🙋‍♂️ 연락처
+## 📞 연락처
 
 ✉ cbmlv333@naver.com
 
