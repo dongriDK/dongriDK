@@ -6,7 +6,7 @@
 
 ## 📑 My CV
 
-CV(KOR) - [Link](https://docs.google.com/document/d/1rovYOfSDGzgos2T6-jq0NC1FvuWyyTu7/edit?usp=sharing&ouid=101599363734521957786&rtpof=true&sd=true)
+CV(KOR) - [Link](https://decisive-promotion-347.notion.site/dongDK-d4f9d158064a45d7b3a76d846887b5d5?pvs=4)
 
 
 ## 🛠Main Skills⚒
