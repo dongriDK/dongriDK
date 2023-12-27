@@ -12,7 +12,6 @@ Resume - [Link](https://decisive-promotion-347.notion.site/dongDK-d4f9d158064a45
 ## 🛠기술 스택
 
 <div align='left'>
-    <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
