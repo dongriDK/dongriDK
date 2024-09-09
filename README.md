@@ -9,6 +9,12 @@
 Resume - [Link](https://decisive-promotion-347.notion.site/dongDK-d4f9d158064a45d7b3a76d846887b5d5?pvs=4)
 
 ## 
+
+## 💻포트폴리오
+
+Portfolio - [Link](https://dongri.kim)
+##
+
 ## 🛠기술 스택
 
 <div align='left'>
